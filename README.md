@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharvao2/LEETCODE/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/atharvao2/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/atharvao2/LEETCODE/tree/master/0013-roman-to-integer) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/atharvao2/LEETCODE/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/atharvao2/LEETCODE/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
