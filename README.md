@@ -24,8 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/atharvao2/LEETCODE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharvao2/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/atharvao2/LEETCODE/tree/master/0018-4sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/atharvao2/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
