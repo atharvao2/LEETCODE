@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/atharvao2/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/atharvao2/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/atharvao2/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/atharvao2/LEETCODE/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharvao2/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/atharvao2/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/atharvao2/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/atharvao2/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/atharvao2/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/atharvao2/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
